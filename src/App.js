@@ -7,7 +7,8 @@ export class App extends Component {
     this.state = {
       todos: [
         'Learn React',
-        'Do Laundry'
+        'Do Laundry',
+        'new Task'
       ],
       todoToAdd: ""
     };
