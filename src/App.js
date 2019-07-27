@@ -8,7 +8,8 @@ export class App extends Component {
       todos: [
         'Learn React',
         'Do Laundry',
-        'new Task'
+        'new Task',
+        'New task from HP'
       ],
       todoToAdd: ""
     };
